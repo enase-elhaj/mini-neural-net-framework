@@ -37,7 +37,7 @@ Example notebook demonstrating training on the digits dataset
 Reaches ~86% accuracy on the test set using a simple 2-layer neural network
 
 📌 Project Structure
-
+```
 mini-neural-net-framework/
 ├── README.md
 ├── requirements.txt
@@ -51,7 +51,7 @@ mini-neural-net-framework/
 │       └── model.py
 └── notebooks/
     └── demo_mnist.ipynb
-
+```
 📌 Installation
 git clone https://github.com/enase-elhaj/mini-neural-net-framework.git
 cd mini-neural-net-framework
