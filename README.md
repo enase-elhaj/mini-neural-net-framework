@@ -39,10 +39,8 @@ Reaches ~86% accuracy on the test set using a simple 2-layer neural network
 📌 Project Structure
 
 mini-neural-net-framework/
-│
 ├── README.md
 ├── requirements.txt
-│
 ├── src/
 │   └── nn/
 │       ├── __init__.py
@@ -51,7 +49,6 @@ mini-neural-net-framework/
 │       ├── losses.py
 │       ├── optimizers.py
 │       └── model.py
-│
 └── notebooks/
     └── demo_mnist.ipynb
 
