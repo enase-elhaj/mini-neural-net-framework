@@ -37,6 +37,7 @@ Example notebook demonstrating training on the digits dataset
 Reaches ~86% accuracy on the test set using a simple 2-layer neural network
 
 📌 Project Structure
+
 mini-neural-net-framework/
 │
 ├── README.md
